@@ -2,6 +2,7 @@
     x-data="{
         shrink:false,
         drawer:false
+        drawer:true
 
     }"
     class="menu p-3   w-20 overflow-x-hidden h-full grid bg-white border-r text-base-content"
